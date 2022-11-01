@@ -1,4 +1,5 @@
 # Day11projectinpython
+keep replit files and codefile in floder and open that entire floder in python compiler
 
 
 
